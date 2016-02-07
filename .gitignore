@@ -13,3 +13,7 @@ rdoc
 tests
 tmp
 /lib/protocol_buffers/runtime/text_parser.rb
+
+
+# OSX Junk
+.DS_Store
